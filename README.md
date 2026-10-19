@@ -1,77 +1,110 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SubhanJaved&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 
-<h1>Hi there, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=12E2FF&center=true&vCenter=true&width=250&height=40&lines=Subhan+Javed" alt="Typing SVG" /> 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=SubhanJaved-Ai&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Available_for_Global_Remote_Work-10B981?style=for-the-badge" alt="Availability" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=40&lines=AI+Solution+Architect;Machine+Learning+Enthusiast;Expert+in+n8n;System+Design+Specialist" alt="Typing SVG" /></a>
+<h1>Hi there, I'm Subhan Javed 👋</h1>
 
-<p><em>Based in Alipur City, Pakistan 🌍</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=12E2FF&center=true&vCenter=true&width=720&height=45&lines=Senior+AI+Systems+%26+Automation+Engineer;Software+Architect+%7C+3%2B+Years+of+Experience;Autonomous+Multi-Agent+%26+LLM+Orchestration+Expert;Enterprise+n8n+Workflow+%26+Full-Stack+Engineer" alt="Typing SVG" />
+
+<p><em>Senior AI Systems & Automation Engineer • Based in Pakistan 🌍</em></p>
+
 </div>
 
-<br>
+---
 
-## <img src="https://media.giphy.com/media/hqgD6boculhAIGTYhu/giphy.gif" width="35"> 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/hqgD6boculhAIGTYhu/giphy.gif" width="32"> 👨‍💻 About Me
 
-🧠 **Current Focus:** I am self-studying <img src="https://img.shields.io/badge/ADVANCED_AI-8A2BE2?style=flat-square" /> concepts to build the foundation for <img src="https://img.shields.io/badge/AI_Automation_Agencies-FF4500?style=flat-square" />, and exploring <img src="https://img.shields.io/badge/POWERFUL-FF0000?style=flat-square" /> AI applications for modernizing gas stations.
+I am a **Senior AI Systems & Automation Engineer** and **Software Architect** with **3+ years of experience** building autonomous multi-agent systems, production-grade backend infrastructure, and enterprise-scale workflow automations.
 
-🔭 **Goals:** Ready to collaborate and contribute to <img src="https://img.shields.io/badge/Open_Source-4CAF50?style=flat-square" /> projects to build <img src="https://img.shields.io/badge/AWESOME-FFD700?style=flat-square&logoColor=black" /> solutions for real-world problems.
+* 🧠 **AI & Agent Orchestration:** Designing and debugging complex LLM pipelines, multi-agent frameworks (`CrewAI`, `LangChain`), `RAG`, `Model Context Protocol (MCP)`, and live NLP voice systems.
+* ⚡ **Enterprise Automation:** Architecting fault-tolerant `n8n` workflows, custom API routing layers, and autonomous data-streaming pipelines.
+* 🏗️ **Production Software Engineering:** Developing lightweight full-stack web applications, custom system software, and high-performance Chrome extensions.
+* 🌐 **Engineering Philosophy:** Focused on eliminating manual bottlenecks, optimizing system performance, and shipping clean, scalable architectures for global remote teams.
 
-📈 **Experience:** Spent months actively contributing to <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" /> datasets and challenges to level up my skills.
+---
 
-🎓 **Education & Expertise:** FSc Pre-Medical background with a strong, self-taught mastery of <img src="https://img.shields.io/badge/Modern_Programming-32CD32?style=flat-square" /> and <img src="https://img.shields.io/badge/System_Design-005129?style=flat-square&logo=Diagrams.net&logoColor=white" /> architecture. I am also an <img src="https://img.shields.io/badge/EXPERT_IN_n8n-%23FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white" /> turning complex problems into streamlined automations!
+## 🚀 Featured Systems & Architecture
 
-💡 **Concepts:** Deep understanding of <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-8A2BE2?style=flat-square" />, <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-00CED1?style=flat-square" />, and <img src="https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=flat-square" />.
+| System / Product | Engineering Impact |
+| :--- | :--- |
+| **🎬 Multi-Platform Automated Media Engine** | High-performance custom browser extension that autonomously extracts multi-modal assets from live data streams, processes algorithmic prompts via computer vision, and generates synced video/image outputs without human intervention. |
+| **📄 Custom Production-Grade Document Workspace** | Lightweight, high-speed web-based PDF editor engineered from scratch to bypass resource-heavy libraries—delivering fast client-side rendering and programmatic document manipulation. |
+| **🎙️ Autonomous Voice & Communication System** | Enterprise multi-agent architecture built with `n8n` and `CrewAI` to handle complex logic routing, custom API endpoints, and live natural language processing (NLP) voice operations at scale. |
 
-<br>
+---
 
-<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🛠️ Tech Stack & Skills</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> 🛠️ Tech Stack & Capabilities</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Core Languages & Full-Stack Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,rust&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,rust,js,ts,nodejs,html,css&theme=dark" alt="Programming Languages" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Architecture-2C2C32?style=for-the-badge&logoColor=white" alt="Full-Stack Architecture" />
+  <img src="https://img.shields.io/badge/Chrome_Extension_Engineering-2C2C32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+  <img src="https://img.shields.io/badge/Custom_API_Design-2C2C32?style=for-the-badge&logoColor=white" alt="Custom API Design" />
+  <img src="https://img.shields.io/badge/System_Design-005129?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
 </p>
 
-### ☁️ Cloud, DevOps & System Design
+### 🤖 AI, Agents & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx&theme=dark" alt="Cloud and DevOps" /><br><br>
-  <img src="https://img.shields.io/badge/System_Design-005129?style=for-the-badge&logo=Diagrams.net&logoColor=white" alt="System Design" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI Frameworks" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge&logoColor=white" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG_%26_MCP-00CED1?style=for-the-badge&logoColor=black" alt="RAG and MCP" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Debugging_%26_Evaluation-2C2C32?style=for-the-badge&logoColor=white" alt="LLM Debugging" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2C2C32?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP_%26_Voice_Agents-2C2C32?style=for-the-badge&logoColor=white" alt="NLP and Voice Agents" />
+  <img src="https://img.shields.io/badge/Deep_Learning-2C2C32?style=for-the-badge&logoColor=white" alt="Deep Learning" />
 </p>
 
-### 🤖 AI, Data Science & Machine Learning
+### ☁️ Automation, Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI Frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,aws,docker,nginx,git,linux&theme=dark" alt="Cloud and DevOps" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-2C2C32?style=for-the-badge&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-2C2C32?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-2C2C32?style=for-the-badge&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/-Computer%20Vision-2C2C32?style=for-the-badge&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/-NLP-2C2C32?style=for-the-badge&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/-Data%20Science-2C2C32?style=for-the-badge&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/-Prompt%20Engineering-2C2C32?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/-RAG%20%26%20MCP-2C2C32?style=for-the-badge&logoColor=white" alt="RAG and MCP" />
-</p>
-
-### ⚡ Automation & Workflows
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-%23FF6D5A.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/n8n_Workflow_Engineering-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Distributed_Agent_Deployment-0078D4?style=for-the-badge&logoColor=white" alt="Distributed Agent Deployment" />
+  <img src="https://img.shields.io/badge/Real--Time_Data_Streaming-2C2C32?style=for-the-badge&logoColor=white" alt="Real-Time Data Streaming" />
 </p>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">📫 Connect with Me</h2>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/subhan-javed-13960a3b7" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://web.facebook.com/profile.php?id=61582039847525" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
+<h2>📫 Want to See My Work or Connect?</h2>
+
+<p>
+  I share most of my AI tools, software builds, and production projects for free at <strong>Subhan Javed Studio</strong>.<br>
+  Explore my live work or reach out directly below:
 </p>
 
-<p align="center"><i>"Building the <img src="https://img.shields.io/badge/FUTURE-FF4500?style=flat-square" /> of automation, one line of code at a time."</i></p>
+<p align="center">
+  <a href="https://subhanjaved-studio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Subhan_Javed_Studio-FF4500?style=for-the-badge&logo=vercel&logoColor=white" alt="Subhan Javed Studio" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhan-javed-2180a9440?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:subhanjavedai.builder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>"Architecting autonomous systems and production-grade automation—one line of code at a time."</i>
+</p>
+
+</div>
